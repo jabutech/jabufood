@@ -1,5 +1,5 @@
 # jabufood
-Aplikasi Pemesanan makanan dibangun dengan Vue JS Cli dan serve apinya menggunakan json-server dari https://github.com/typicode/json-server 
+Aplikasi Pemesanan makanan dibangun dengan Vue JS Cli sumber belajar https://www.youtube.com/watch?v=XoDGI5JaPvw&list=PLIan8aHxsPj3a7oLHb2a8pw8IHBq45WYu dan serve apinya menggunakan json-server dari https://github.com/typicode/json-server 
 
 # how to run 
 
